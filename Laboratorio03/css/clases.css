@@ -1,0 +1,18 @@
+.titulo {
+  color: orange;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.subtitulos {
+  color: green;
+  font-weight: bold;
+}
+.parrafo {
+  color: blue;
+  font-style: italic;
+}
+.barra {
+  background-color: cornflowerblue;
+  height: 10px;
+}
